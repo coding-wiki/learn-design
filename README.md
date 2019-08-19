@@ -47,7 +47,10 @@ React and Sketch are good tools to bridge the gap between design software and CS
 
 ## Reading
 
-- 
+- https://daneden.me/2018/01/05/subatomic-design-systems/
+- https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee
+- https://medium.com/@_alanbsmith/layered-components-6f18996073a8
+- https://medium.com/@_alanbsmith/component-api-design-3ff378458511
 
 
 ## Resources
